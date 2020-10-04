@@ -23,3 +23,11 @@
 
 **Thoughts** 
 - I am looking forward to working my way up the levels. Love a roadmap. This will also be the basis for my next OKR run.
+
+### #daysofcode 4/10/20 
+
+**Today's Progress**
+- Junior Developer Tips - added to Levels and Ladders doc.
+
+**Thoughts** 
+- Looking forward to starting on the ladder tomorrow.
